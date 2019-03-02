@@ -1,0 +1,23 @@
+{
+  "name": "hola-mundo-quattro",
+  "version": "1.0.0",
+  "description": "hola mundo 4 application",
+  "main": "holaMundoQuattro.js",
+  "scripts": {
+    "test": "not yet implemented"
+  },
+  "author": "goatbrain.ch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schleuderbeton/hola-mundo-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/schleuderbeton/hola-mundo-nodejs/issues"
+  },
+  "homepage": "https://github.com/schleuderbeton/hola-mundo-nodejs#readme"
+}
